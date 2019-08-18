@@ -3,6 +3,8 @@
 これはFlashAir W-04のPWM機能でMML(Music Macro Language)を演奏するためのライブラリです。  
 最大 5重和音（5チャンネル同時）演奏が可能です。  
 
+<img src="img/connect01.jpg" width="480">
+
 
 ## インストール方法  
 
