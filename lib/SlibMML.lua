@@ -1,7 +1,8 @@
 -----------------------------------------------
--- function libraly for FlashAir Roulette for W-04
--- under the BSD-2-Clause, Copyright 2019 AoiSaya
--- 2019/08/18 rev.0.01
+-- SoraMame library of MML decode & play for W4.00.03
+-- Copyright (c) 2019, AoiSaya
+-- All rights reserved.
+-- 2019/08/19 rev.0.02
 -----------------------------------------------
 local SlibMML = {
 }
